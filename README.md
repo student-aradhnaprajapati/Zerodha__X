@@ -2,7 +2,9 @@
 Full stack Stock Trading Platform : Inspired by Zerodha’s UI, built using React,Bootstrap, Node.js, and stock prediction features.
 
 
-Getting Started with Create React App
+
+
+# Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
 Available Scripts
